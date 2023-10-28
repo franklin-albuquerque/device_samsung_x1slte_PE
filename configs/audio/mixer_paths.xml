@@ -4740,7 +4740,7 @@
 	<!-- media playback volume -->
 	<path name="gain-media-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="761" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-media-speaker">
@@ -4824,7 +4824,7 @@
 	<!-- Ringtone playback volume -->
 	<path name="gain-ringtone-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="761" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-ringtone-speaker">
@@ -5072,7 +5072,7 @@
 	<!-- wificall evs playback volume -->
 	<path name="gain-wificall_evs-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-wificall_evs-speaker">
@@ -5145,7 +5145,7 @@
 	<!-- NB volume -->
 	<path name="gain-incall_nb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-incall_nb-speaker">
@@ -5187,7 +5187,7 @@
 	<!-- WB volume -->
 	<path name="gain-incall_wb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-incall_wb-speaker">
@@ -5229,7 +5229,7 @@
 	<!-- VoLTE CP NB playback volume -->
 	<path name="gain-volte_cp_nb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_cp_nb-speaker">
@@ -5271,7 +5271,7 @@
 	<!-- VoLTE CP WB playback volume -->
 	<path name="gain-volte_cp_wb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_cp_wb-speaker">
@@ -5313,7 +5313,7 @@
 	<!-- EVS volume -->
 	<path name="gain-volte_cp_evs-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_cp_evs-speaker">
@@ -5355,7 +5355,7 @@
 	<!-- VoLTE VT CP NB playback volume -->
 	<path name="gain-volte_vt_cp_nb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_vt_cp_nb-speaker">
@@ -5397,7 +5397,7 @@
 	<!-- VoLTE VT CP WB playback volume -->
 	<path name="gain-volte_vt_cp_wb-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_vt_cp_wb-speaker">
@@ -5439,7 +5439,7 @@
 	<!-- EVS VT volume -->
 	<path name="gain-volte_vt_cp_evs-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-volte_vt_cp_evs-speaker">
@@ -5481,7 +5481,7 @@
 	<!-- TTY Mode volume-->
 	<path name="gain-tty_mode-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="761" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-tty_mode-usb-headset">
@@ -5490,7 +5490,7 @@
 	<!-- AP TTY Mode volume-->
 	<path name="gain-ap_tty_mode-handset">
 		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="761" />
+		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
 	<path name="gain-ap_tty_mode-usb-headset">
