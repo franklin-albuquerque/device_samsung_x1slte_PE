@@ -2145,7 +2145,6 @@
 	<path name="route-apcall-spkrcv-playback">
 		<ctl name="ABOX SIFS0 Width" value="32" />
 		<ctl name="ABOX SIFS0 Channel" value="4" />
-		<path name="route-apcall-vpcmoutdais-to-srccoms" />
 		<path name="route-bdmixer-to-rdma3" />
 		<path name="route-rdma3-to-sifs0" />
 		<path name="route-sifs0-to-uaif2" />
